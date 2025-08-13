@@ -1,18 +1,18 @@
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'BOXE',
+    'Quem foi o homem com o melhor footwork da historia?',
+    'Muhammad Ali'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'UFC',
+    'Qual foi a unica derrota de Jon "Bones" Jones',
+    'Jon Jones tem uma única derrota em seu cartel, que foi por conta de utilizar cotoveladas ilegais'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'UFC',
+    'Quem teve uma das entradas mais explosivas no ufc?',
+    'Khamzat Chimaev que conquistou três vitórias em apenas 66 dias, sendo a primeira e a mais rápida da história do UFC (duas vitórias em 10 dias).'
 )
